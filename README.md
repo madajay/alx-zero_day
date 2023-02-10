@@ -1,2 +1,2 @@
 My first readme
-Software engineering is cool.
+Software engineering is cool!
